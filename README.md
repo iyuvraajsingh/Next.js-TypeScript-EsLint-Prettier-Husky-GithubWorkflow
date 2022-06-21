@@ -2,13 +2,13 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Next.js Project using TypeScript with ESLint, Prettier, Husky & Github Workflow
 
-First, install the dependencies:
+1. Install the dependencies:
 
 ```bash
 npm install
 ```
 
-First, run the development server:
+2. Run the development server:
 
 ```bash
 npm run dev
